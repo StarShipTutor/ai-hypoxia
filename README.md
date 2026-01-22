@@ -26,7 +26,7 @@ This project is intentionally modeled on early experimental science, particularl
 * Avoid premature claims about underlying mechanisms
 * Publish protocols that **any competent lab can reproduce**
 * Invite independent verification and negative results
-* [X-Ray Discovery](https://en.wikipedia.org/wiki/Wilhelm_Conrad_Röntgen)
+* [X-Ray Discovery](https://en.wikipedia.org/wiki/X-ray#Discovery)
 
 We treat AI hypoxia as a **measurable systems phenomenon**, not a metaphor.
 
