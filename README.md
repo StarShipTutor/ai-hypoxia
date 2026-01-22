@@ -1,10 +1,3 @@
-Here is a **starter README** you can upload as-is.
-It is deliberately sober, Röntgen-style, and written to attract **scientists, engineers, and explorers**, not hype traffic.
-
-You can refine later, but this is *correct* for Day 1.
-
----
-
 # AI Hypoxia
 
 **A community repository for defining, characterizing, and stabilizing epistemic failure modes in agentic AI systems.**
